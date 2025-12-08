@@ -28,12 +28,14 @@
 ---
 
 <h2 align="center">🚀 Featured Project</h2>
+
 <div align="center">
   <a href="https://github.com/ArdaBolukbasi/Car-Rental-Automation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArdaBolukbasi&repo=Car-Rental-Automation&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+    <img src="https://raw.githubusercontent.com/ArdaBolukbasi/Car-Rental-Automation/main/user_panel.png" width="500" style="border-radius: 15px; border: 2px solid #39b9b3; box-shadow: 0px 0px 20px rgba(57, 185, 179, 0.5);" alt="Car Rental Automation" />
   </a>
+  <br/>
+  <b>👆 Click to view the source code & documentation</b>
 </div>
-<br/>
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
 <div align="center">
