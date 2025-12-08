@@ -17,7 +17,6 @@
 
 <p align="center">
   🌱 Currently learning: <b>Backend Technologies & AI</b> <br/>
-  🔭 Working on: <b>Car Rental Automation (Python)</b> <br/>
   💬 Ask me about: <b>Python, Java, SQL</b>
 </p>
 
