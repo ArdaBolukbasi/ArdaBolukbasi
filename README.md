@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=39b9b3&width=435&lines=Hi,+I'm+Arda+B%C3%96L%C3%9CKBA%C5%9EI" alt="Typing SVG" />
-      </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=39b9b3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arda+B%C3%96L%C3%9CKBA%C5%9EI" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -17,6 +17,7 @@
 
 <p align="center">
   🌱 Currently learning: <b>Backend Technologies & AI</b> <br/>
+  🔭 Working on: <b>Car Rental Automation (Python)</b> <br/>
   💬 Ask me about: <b>Python, Java, SQL</b>
 </p>
 
@@ -25,6 +26,14 @@
 </p>
 
 ---
+
+<h2 align="center">🚀 Featured Project</h2>
+<div align="center">
+  <a href="https://github.com/ArdaBolukbasi/Car-Rental-Automation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArdaBolukbasi&repo=Car-Rental-Automation&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+</div>
+<br/>
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
 <div align="center">
@@ -37,12 +46,10 @@
 <br />
 <br />
 
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdaBolukbasi&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
 </div>
-
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
