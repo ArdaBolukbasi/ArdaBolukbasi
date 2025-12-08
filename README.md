@@ -31,11 +31,13 @@
 
 <div align="center">
   <a href="https://github.com/ArdaBolukbasi/Car-Rental-Automation">
-    <img src="https://raw.githubusercontent.com/ArdaBolukbasi/Car-Rental-Automation/main/user_panel1.png" width="500" style="border-radius: 15px; border: 2px solid #39b9b3; box-shadow: 0px 0px 20px rgba(57, 185, 179, 0.5);" alt="Car Rental Automation" />
+    <img src="./Car_Renting_Panel.jpg" width="500" style="border-radius: 15px; border: 2px solid #39b9b3; box-shadow: 0px 0px 20px rgba(57, 185, 179, 0.5);" alt="Car Rental Automation" />
   </a>
   <br/>
   <b>👆 Click to view the source code & documentation</b>
 </div>
+
+---
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
 <div align="center">
