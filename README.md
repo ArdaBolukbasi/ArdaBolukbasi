@@ -50,10 +50,15 @@
 <br />
 <br />
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+## 🐍 Contribution Activity
+
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdaBolukbasi&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
+  
+![Snake animation](https://raw.githubusercontent.com/ErenKaynak/ErenKaynak/output/github-contribution-grid-snake-dark.svg)
+
 </div>
+
+---
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
