@@ -56,7 +56,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">Edarch-Studio (No-Code Solution)</h3>
-      <a href="https://github.com/ArdaBolukbasi/Edarch-Studio-Corporate" target="_blank">
+      <a href="https://github.com/ArdaBolukbasi/Edarch-Studio" target="_blank">
         <img src="https://github.com/ArdaBolukbasi/Edarch-Studio/raw/main/Home.png" width="95%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Edarch Studio Corporate Website">
       </a>
       <br/>
