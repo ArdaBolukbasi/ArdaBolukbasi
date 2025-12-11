@@ -43,30 +43,43 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">ArdaBolukbasi.com (Portfolio)</h3>
+      <a href="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web" target="_blank">
+        <img src="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web/raw/main/about.jpg" width="90%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Personal Portfolio Website">
+      </a>
+      <br/>
+      <b>👆 Click to view the source code</b>
+      <p>
+        Personal portfolio site featuring multi-language support (TR/EN), dynamic dark mode, and integrated project display from GitHub API. Built with HTML, CSS, and JS.
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">Edarch-Studio (No-Code)</h3>
+      <a href="https://github.com/ArdaBolukbasi/Edarch-Studio" target="_blank">
+        <img src="https://github.com/ArdaBolukbasi/Edarch-Studio/raw/main/Home.png" width="95%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Edarch Studio Corporate Website">
+      </a>
+      <br/>
+      <b>👆 Click to view the source code</b>
+      <p>
+        Corporate site using a strategic No-Code approach. Highlights my ability to prioritize client autonomy and deliver cost-effective, maintainable solutions over unnecessary custom coding.
+      </p>
+    </td>
+    <td width="34%" align="center" valign="top">
       <h3 align="center">Edarch-Portfolio-Interactive</h3>
       <a href="https://github.com/ArdaBolukbasi/Edarch-Portfolio-Interactive" target="_blank">
         <img src="https://github.com/ArdaBolukbasi/Edarch-Portfolio-Interactive/raw/main/portf/1.jpg?raw=true" width="90%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Interactive Flipbook Portfolio">
       </a>
       <br/>
-      <b>👆 Click to view the source code & documentation</b>
+      <b>👆 Click to view the source code</b>
       <p>
         Realistic digital flipbook built with custom HTML/CSS/JS and Turn.js. Demonstrates advanced Front-end animation and UI customization.
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">Edarch-Studio (No-Code Solution)</h3>
-      <a href="https://github.com/ArdaBolukbasi/Edarch-Studio" target="_blank">
-        <img src="https://github.com/ArdaBolukbasi/Edarch-Studio/raw/main/Home.png" width="95%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Edarch Studio Corporate Website">
-      </a>
-      <br/>
-      <b>👆 Click to view the source code & documentation</b>
-      <p>
-        Corporate site using a strategic No-Code approach. Highlights my ability to prioritize client autonomy and deliver cost-effective, maintainable solutions over unnecessary custom coding.
-      </p>
-    </td>
   </tr>
 </table>
+
+---
 
 ---
 
