@@ -12,12 +12,12 @@
 
 <p align="center">
   Believing that software development isn't just learned in the classroom, I practice by developing my own projects in Python and SQL.
-  I don't claim to know everything, but I have a strong passion for research and learning new technologies. Currently, I am developing desktop applications using Python (CustomTkinter) and expanding my vision through Google and IBM certifications (AI & SQL).
+  I don't claim to know everything, but I have a strong passion for research and learning new technologies. Currently, I am focused on <strong>AI-integrated Web Applications</strong> and expanding my vision through Google and IBM certifications.
 </p>
 
 <p align="center">
-  🌱 Currently learning: <b>Backend Technologies & AI</b> <br/>
-  🔭 Working on: <b>Car Rental Automation (Python)</b> <br/>
+  🌱 Currently learning: <b>LLM Integration & Flask Architecture</b> <br/>
+  🔭 Working on: <b>AI Powered CV Analyzer</b> <br/>
   💬 Ask me about: <b>Python, Java, SQL, Web Development</b>
 </p>
 
@@ -27,65 +27,106 @@
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
+<h2 align="center">🏆 Flagship Project: AI Career Architect</h2>
 
 <div align="center">
-  <a href="https://github.com/ArdaBolukbasi/Car-Rental-Automation">
-    <img src="./Car_Renting_Panel.jpg" width="500" style="border-radius: 15px; border: 2px solid #39b9b3; box-shadow: 0px 0px 20px rgba(57, 185, 179, 0.5);" alt="Car Rental Automation" />
+  <a href="https://cvanaliz.com.tr" target="_blank">
+    <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.png" width="34%" style="border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 30px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project" />
   </a>
-  <br/>
-  <b>👆 Click to view the source code & documentation</b>
+  
+  <br/><br/>
+  
+  <p>
+    <b>🧠 CV Analysis & AI Matching System</b><br/>
+    A full-stack web application developed with <b>Python (Flask)</b> and <b>Google Gemini AI</b>. It analyzes resumes like a professional recruiter, providing ATS scores and interview questions.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deploy-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Design-Glassmorphism-9cf?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+
+  <a href="https://cvanaliz.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ArdaBolukbasi/cvanaliz">
+    <img src="https://img.shields.io/badge/💻_Source_Code-View_Repo-blueviolet?style=for-the-badge" />
+  </a>
 </div>
 
 ---
 
-<h2 align="center">🌐 Web & Solution Projects</h2>
+<h2 align="center">📂 Other Applications & Solutions</h2>
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h3 align="center">ArdaBolukbasi.com (Portfolio)</h3>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🚗 Car Rental Automation</h3>
+      <a href="https://github.com/ArdaBolukbasi/Car-Rental-Automation">
+        <img src="./Car_Renting_Panel.jpg" width="95%" height="200" style="object-fit: cover; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Car Rental">
+      </a>
+      <br/>
+      <b>👆 Python Desktop App</b>
+      <p>
+        Advanced desktop automation built with CustomTkinter. Features user management, vehicle tracking, and rental logic.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
       <a href="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web" target="_blank">
-        <img src="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web/raw/main/about.jpg" width="90%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Personal Portfolio Website">
+        <img src="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web/raw/main/about.jpg" width="95%" height="200" style="object-fit: cover; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Portfolio">
       </a>
       <br/>
-      <b>👆 Click to view the source code</b>
+      <b>👆 Web Development</b>
       <p>
-        Personal portfolio site featuring multi-language support (TR/EN), dynamic dark mode, and integrated project display from GitHub API. Built with HTML, CSS, and JS.
+        Multi-language (TR/EN) portfolio site with dynamic dark mode and GitHub API integration.
       </p>
+      <a href="https://ardabolukbasi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h3 align="center">Edarch-Studio (No-Code)</h3>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🏗️ Edarch-Studio (No-Code)</h3>
       <a href="https://github.com/ArdaBolukbasi/Edarch-Studio" target="_blank">
-        <img src="https://github.com/ArdaBolukbasi/Edarch-Studio/raw/main/Home.png" width="95%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Edarch Studio Corporate Website">
+        <img src="https://github.com/ArdaBolukbasi/Edarch-Studio/raw/main/Home.png" width="95%" height="200" style="object-fit: cover; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Edarch Studio">
       </a>
       <br/>
-      <b>👆 Click to view the source code</b>
+      <b>👆 Solution Architecture</b>
       <p>
-        Corporate site using a strategic No-Code approach. Highlights my ability to prioritize client autonomy and deliver cost-effective, maintainable solutions over unnecessary custom coding.
+        Corporate site strategy using No-Code tools to deliver cost-effective and maintainable solutions for clients.
       </p>
+       <a href="https://edarch.studio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
     </td>
-    <td width="34%" align="center" valign="top">
-      <h3 align="center">Edarch-Portfolio-Interactive</h3>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">📖 Interactive Portfolio</h3>
       <a href="https://github.com/ArdaBolukbasi/Edarch-Portfolio-Interactive" target="_blank">
-        <img src="https://github.com/ArdaBolukbasi/Edarch-Portfolio-Interactive/raw/main/portf/1.jpg?raw=true" width="90%" height="250" style="object-fit: contain; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Interactive Flipbook Portfolio">
+        <img src="https://github.com/ArdaBolukbasi/Edarch-Portfolio-Interactive/raw/main/portf/1.jpg?raw=true" width="95%" height="200" style="object-fit: cover; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Interactive Portfolio">
       </a>
       <br/>
-      <b>👆 Click to view the source code</b>
+      <b>👆 Creative Front-end</b>
       <p>
-        Realistic digital flipbook built with custom HTML/CSS/JS and Turn.js. Demonstrates advanced Front-end animation and UI customization.
+        Realistic digital flipbook built with Turn.js, demonstrating advanced JS animations.
       </p>
+      <a href="https://portfolio.edarch.studio/flipbook_en" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
     </td>
   </tr>
 </table>
 
 ---
 
----
-
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Tᴏᴏls</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -106,7 +147,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaBolukbasi/ArdaBolukbasi/output/github-contribution-grid-snake.svg?t=4000">
   </picture>
 </div>
-
 
 ---
 
