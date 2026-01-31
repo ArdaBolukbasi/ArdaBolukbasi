@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://cvanaliz.com.tr" target="_blank">
-    <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.png" width="34%" style="border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 30px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project" />
+    <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.jpg" width="34%" style="border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 30px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project" />
   </a>
   
   <br/><br/>
