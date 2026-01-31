@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./banner.jpg" width="100%" alt="Arda Bölükbaşı Banner" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
