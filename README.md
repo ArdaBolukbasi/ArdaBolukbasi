@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=39b9b3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arda+B%C3%96L%C3%9CKBA%C5%9EI" alt="Typing SVG" />
@@ -25,34 +23,65 @@
 
 ---
 
-<h2 align="center">🏆 Flagship Project: AI Career Architect</h2>
+<h2 align="center">🏆 Flagship Projects</h2>
 
-<div align="center">
-  <a href="https://cvanaliz.com.tr" target="_blank">
-    <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.jpg" width="34%" style="border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 30px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project" />
-  </a>
-  
-  <br/><br/>
-  
-  <p>
-    <b>🧠 CV Analysis & AI Matching System</b><br/>
-    A full-stack web application developed with <b>Python (Flask)</b> and <b>Google Gemini AI</b>. It analyzes resumes like a professional recruiter, providing ATS scores and interview questions.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deploy-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-    <img src="https://img.shields.io/badge/Design-Glassmorphism-9cf?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-
-  <a href="https://cvanaliz.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ArdaBolukbasi/cvanaliz">
-    <img src="https://img.shields.io/badge/💻_Source_Code-View_Repo-blueviolet?style=for-the-badge" />
-  </a>
-</div>
+<!-- Table Start -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">
+          <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/favicon.png" width="50" style="vertical-align: middle; margin-right: 8px;">
+            <br>
+          CV Analysis & AI Matching
+        </h3>
+      <a href="https://cvanaliz.com.tr" target="_blank">
+        <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.jpg" width="95%" height="400" style="object-fit: cover; border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 20px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project">
+      </a>
+      <br/><br/>
+      <p>
+        Full-stack web app with <b>Python (Flask)</b> and <b>Google Gemini AI</b>. Analyzes resumes, provides ATS scores and interview questions.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deploy-HF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </div>
+      <br/>
+      <a href="https://cvanaliz.com.tr" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/ArdaBolukbasi/cvanaliz">
+        <img src="https://img.shields.io/badge/💻_Source_Code-View_Repo-blueviolet?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">
+          <img src="https://github.com/ArdaBolukbasi/purepix-web/raw/main/favicon.png" width="50" style="vertical-align: middle; margin-right: 8px;">
+            <br>
+          PurePix - AI Image Optimizer
+        </h3>
+      <a href="https://purepix.com.tr" target="_blank">
+        <img src="https://github.com/ArdaBolukbasi/purepix-web/raw/main/mainpage.jpg" width="95%" height="355" style="object-fit: cover; border-radius: 15px; border: 2px solid #8A2BE2; box-shadow: 0px 0px 20px rgba(138, 43, 226, 0.4);" alt="PurePix AI Image Tool">
+      </a>
+      <br/><br/>
+      <p>
+        Premium tool for <b>Smart Compression</b> and <b>Background Removal</b>. Built with high-performance <b>Next.js 14</b> and <b>FastAPI</b>.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-React-black?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Rembg-red?style=for-the-badge&logo=pytorch&logoColor=white" />
+      </div>
+      <br/>
+      <a href="https://purepix.com.tr" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/ArdaBolukbasi/purepix">
+        <img src="https://img.shields.io/badge/💻_Source_Code-View_Repo-blueviolet?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
