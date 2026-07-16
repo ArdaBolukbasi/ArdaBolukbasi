@@ -103,7 +103,7 @@
     <td width="50%" align="center" valign="top">
       <h3 align="center">🌐 Personal Portfolio</h3>
       <a href="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web" target="_blank">
-        <img src="https://github.com/ArdaBolukbasi/ArdaBolukbasi-web/raw/main/about.jpg" width="95%" height="200" style="object-fit: cover; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Portfolio">
+        <img src="wep.png" width="95%" height="200" style="object-fit: cover; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Portfolio">
       </a>
       <br/>
       <b>👆 Web Development</b>
