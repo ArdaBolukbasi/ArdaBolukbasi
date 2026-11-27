@@ -35,7 +35,7 @@
           CV Analysis & AI Matching
         </h3>
       <a href="https://cvanaliz.com.tr" target="_blank">
-        <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.jpg" width="95%" height="400" style="object-fit: cover; border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 20px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project">
+        <img src="https://github.com/ArdaBolukbasi/cvanaliz/raw/main/static/screenshot.png" width="95%" height="400" style="object-fit: cover; border-radius: 15px; border: 2px solid #667eea; box-shadow: 0px 0px 20px rgba(102, 126, 234, 0.4);" alt="CV Analysis AI Project">
       </a>
       <br/><br/>
       <p>
